@@ -1,2 +1,2 @@
 # tech-tutor
-A website and IDE plugins to connect beginner programmers with teachers
+A website and IDE plugins to connect beginner programmers with teachers.
