@@ -1,5 +1,4 @@
-Founders:
-
+# Founders:
 dylanbobb
 
-Contributors:
+# Contributors:
